@@ -1,0 +1,10 @@
+0.7
+2020.2
+May 22 2024
+19:03:11
+D:/vivado files/Tie-link/Tie_link light/Tie_link_light.sim/sim_1/behav/xsim/glbl.v,1708598507,verilog,,,,glbl,,,,,,,,
+D:/vivado files/Tie-link/Tie_link light/Tie_link_light.srcs/sim_1/new/tb_top_tielink.v,1753776804,verilog,,,,tb_top_tielink,,,,,,,,
+D:/vivado files/Tie-link/Tie_link light/Tie_link_light.srcs/sources_1/new/cpu.v,1753775456,verilog,,D:/vivado files/Tie-link/Tie_link light/Tie_link_light.srcs/sources_1/new/light_tielink.v,,cpu,,,,,,,,
+D:/vivado files/Tie-link/Tie_link light/Tie_link_light.srcs/sources_1/new/light_tielink.v,1753775944,verilog,,D:/vivado files/Tie-link/Tie_link light/Tie_link_light.srcs/sources_1/new/memory.v,,light_tielink,,,,,,,,
+D:/vivado files/Tie-link/Tie_link light/Tie_link_light.srcs/sources_1/new/memory.v,1753775555,verilog,,D:/vivado files/Tie-link/Tie_link light/Tie_link_light.srcs/sources_1/new/top_tielink.v,,memory,,,,,,,,
+D:/vivado files/Tie-link/Tie_link light/Tie_link_light.srcs/sources_1/new/top_tielink.v,1753775996,verilog,,D:/vivado files/Tie-link/Tie_link light/Tie_link_light.srcs/sim_1/new/tb_top_tielink.v,,top_tielink,,,,,,,,
