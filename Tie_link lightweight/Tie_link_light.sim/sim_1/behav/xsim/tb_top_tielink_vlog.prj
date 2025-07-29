@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../Tie_link_light.srcs/sources_1/new/cpu.v" \
+"../../../../Tie_link_light.srcs/sources_1/new/light_tielink.v" \
+"../../../../Tie_link_light.srcs/sources_1/new/memory.v" \
+"../../../../Tie_link_light.srcs/sources_1/new/top_tielink.v" \
+"../../../../Tie_link_light.srcs/sim_1/new/tb_top_tielink.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
