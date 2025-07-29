@@ -1,6 +1,6 @@
-# Light Tie Link CPU-Memory System in Verilog
+# Uncached Lightweight Tie Link CPU-Memory System in Verilog
 
-This project simulates a simple CPU-to-Memory communication model connected via a Light Tie Link using traditional Verilog.  
+This project simulates a simple CPU-to-Memory communication model connected via a Lightweight Tie Link using traditional Verilog.  
 The CPU performs a write followed by a read, while the Tie Link transparently bridges the signals to a memory module.  
 Vivado simulation confirms correct protocol behavior with access acknowledgment and data integrity.
 
